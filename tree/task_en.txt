@@ -1,0 +1,16 @@
+Build module to edit tree.
+
+Starting interface page contains one element which consist of:
+  input field (type="text")
+  Button to add sibling
+  Button to add child
+  Button to remove current
+  Button to sort siblings by input text value alphanumerically
+
+Evere created element has the same structure as initial one.
+It is possible to create tree-like structures with this interface.
+
+Please, provide one html and on js file for solution.
+There are no specific requirement for visual representation.
+Do not use any third-party libraries or widget samples.
+Test in FF 3.6, Chrome 8, IE 7-8.

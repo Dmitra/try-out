@@ -1,0 +1,19 @@
+0) recoqnize requirements to be doable.
+1) Browse internet for ready to use solution
+Found some pretty solutions working almost as desired
+
+Using default browser FF last version
+2) Design test html page to fit requirements using some templates
+3) Design javascript to satisfy requirements
+4) Test in IE
+5) redesign code to work in IE
+6) Test in other browsers
+
+Time spent: 4 hours
+
+Solution: jquery plugin to save and restore selection
+
+Implement functions:
+  'Save selectin for current field'
+  'Save all selections'
+  'Restore selection for' checkbox for all input fields on a page

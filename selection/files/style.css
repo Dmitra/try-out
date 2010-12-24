@@ -1,0 +1,44 @@
+body {
+  background:#ccf;
+  color:#653;
+  font:1em, "Courier New", serif;
+}
+
+a:link { color:#993 }
+a:visited { color:#660 }
+
+#content { position:relative }
+
+#content { clear: both }
+
+#fields label {
+  color:#663;
+  font-size:80%;
+  display:block;
+  clear:left;
+}
+
+input[type='text'], textarea {
+  display:block;
+  width:300px;
+  margin-bottom:8px;
+}
+
+textarea {
+  height:100px;
+}
+
+.fieldwrapper {
+  margin-bottom:8px;
+}
+
+.fieldwrapper:after {
+  clear:left;
+}
+
+.fieldwrapper select {
+  float:left;
+  margin-left:4px;
+}
+
+* html input, * html textarea { display:block; }

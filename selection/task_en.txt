@@ -1,0 +1,9 @@
+Task:
+Implement cross-browser (IE6+, FF 3+, Opera 9+, Safari 2+) function for saving selection positions (start, end) of (input, textarea) fields. Make ability to restore selection.
+
+Requirements:
+1. Selection positions are saved on link press outside of a field
+2. Selection positions are restored on another link press outside of a field
+3. Function should work for several textareas on the page.
+
+Describe development process.
